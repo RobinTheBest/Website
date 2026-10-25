@@ -3,7 +3,11 @@ img {
 }
 body {
     text-align:center;
-    font-family: 'Arial';
+    font-family: 'Comic Sans MS';
     color: blue;
     background:red;
+}
+p {
+    font-size: 30px;
+    text-align:left;
 }
